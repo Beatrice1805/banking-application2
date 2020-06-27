@@ -1,0 +1,33 @@
+{
+  "properties": [
+    {
+      "name": "entity.manager.packages.to.scan",
+      "type": "java.lang.String",
+      "description": "Description for entity.manager.packages.to.scan."
+    },
+    {
+      "name": "db.driver",
+      "type": "java.lang.String",
+      "description": "Description for db.driver."
+    },
+    {
+      "name": "spring.queries.roles-query",
+      "type": "java.lang.String",
+      "description": "Description for spring.queries.roles-query."
+    },
+    {
+      "name": "spring.queries.users-query",
+      "type": "java.lang.String",
+      "description": "Description for spring.queries.users-query."
+    },
+    {
+      "name": "db.url",
+      "type": "java.lang.String",
+      "description": "Description for db.url."
+    },
+    {
+      "name": "spring.jpa.hibernate.show_sql",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.show_sql."
+    }
+  ] }
